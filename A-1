@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sal's Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <p class="top-text">Made by Sal</p>
+        <h1 class="title">Sal’s Website</h1>
+        <p class="subtitle">Welcome to my Website</p>
+    </div>
+</body>
+</html>
